@@ -1,0 +1,23 @@
+{
+  "name": "revisao-tfc",
+  "version": "1.0.0",
+  "description": "## Passos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/matheus-ferreira02/revisao-tfc.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/matheus-ferreira02/revisao-tfc/issues"
+  },
+  "homepage": "https://github.com/matheus-ferreira02/revisao-tfc#readme",
+  "devDependencies": {
+    "typescript": "^4.8.2"
+  }
+}
