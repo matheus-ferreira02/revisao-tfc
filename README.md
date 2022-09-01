@@ -4,8 +4,11 @@
 
 1 - Estruturar
 
-2 - Criar middleware de validação de token
+2 - criar rota de login
+  - service
+  - controller
+  - mock user
 
-3 - Criar controller
+3 - criar util createToken
 
-4 - usar o middleware na rota
+4 - Criar middleware de validação de token
